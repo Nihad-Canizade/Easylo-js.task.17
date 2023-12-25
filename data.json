@@ -1,0 +1,55 @@
+{
+  "boxs": [
+    {
+      "id": 1,
+      "image": "https://preview.colorlib.com/theme/easylo/assets/img/icon/services1.svg",
+      "name": "Home Loan",
+      "about": "What are my options and the cost to exercise?",
+      "description": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+      "id": 2,
+      "image": "https://preview.colorlib.com/theme/easylo/assets/img/icon/services2.svg",
+      "name": "Car Loan",
+      "about": "Should I exercise now or later? How can I afford it?",
+      "description": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+      "id": 3,
+      "image": "https://preview.colorlib.com/theme/easylo/assets/img/icon/services3.svg",
+      "name": "Business Loan",
+      "about": "I own my shares - can I get liquidity now without selling?",
+      "description": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+      "id": 4,
+      "image": "./images/head-img.png",
+      "name": "New Loan 1",
+      "about": "Should I exercise now or later? How can I afford it?",
+      "description": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+      "id": 5,
+      "image": "./images/head-img.png",
+      "name": "New Loan 2",
+      "about": "I own my shares - can I get liquidity now without selling?",
+      "description": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+      "id": 6,
+      "image": "./images/head-img.png",
+      "name": "New Loan 3",
+      "about": "What are my options and the cost to exercise?",
+      "description": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    }
+  ],
+  "favorites": [
+    {
+      "id": 3,
+      "image": "https://preview.colorlib.com/theme/easylo/assets/img/icon/services3.svg",
+      "name": "Business Loan",
+      "about": "I own my shares - can I get liquidity now without selling?",
+      "description": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    }
+  ]
+}
