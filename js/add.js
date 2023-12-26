@@ -22,4 +22,5 @@ form.addEventListener("submit", (event) => {
             })
     }
     reader.readAsDataURL(src);
+    console.log("Hello");
 })

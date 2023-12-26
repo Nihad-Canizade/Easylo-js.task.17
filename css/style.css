@@ -348,13 +348,30 @@
   line-height: 1.6;
 }
 
+.section2 .sec2-in .add-btn {
+  color: white;
+  background-color: #00c3ff;
+  border: none;
+  font-size: 20px;
+  padding: 8px 25px;
+  min-width: 150px;
+  margin-top: 3rem;
+  color: white;
+}
+
+.section2 .sec2-in .add-btn a {
+  color: white;
+  text-decoration: none;
+}
+
 .section2 .sec2-in .loadmore-btn {
   color: white;
   background-color: #00c3ff;
   border: none;
   font-size: 20px;
   padding: 8px 25px;
-  margin-top: 3rem;
+  min-width: 150px;
+  margin-top: 1rem;
 }
 
 .section2 .sec2-in .loadmore-btn:active {
