@@ -33,8 +33,8 @@ function getDataJson() {
             <p class="sec2-box-p1">${element.name}</p>
             <p class="sec2-box-p2">${element.description}</p>
             <div class = "sec2-box-btns">
-            <button><a href = "./view.html?id=${element.id}" target ="_blank">View Details</a></button>
-            <button><a href = "./update.html?id=${element.id}" target ="_blank">Update</a></button>
+            <button><a href = "./view.html?id=${element.id}">View Details</a></button>
+            <button><a href = "./update.html?id=${element.id}">Update</a></button>
             <button onclick = "boxDelete(${element.id})">Delete</button>
             </div>
         </div>`
